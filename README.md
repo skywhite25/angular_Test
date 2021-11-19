@@ -1,1 +1,1 @@
-Angular_test
+ang_test
